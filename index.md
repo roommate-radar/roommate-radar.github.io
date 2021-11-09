@@ -11,6 +11,8 @@ date: 2021-11-08
 ## Overview
 Roommate Radar is a web application designed to assist current students at the University of Hawaii at Manoa who desire to live off campus with finding roommates. It allows users to connect with other students and find people who they can co-habitate with in peace.
 
+In order to help users connect, we present users with bite-sized views of a variety of other users' profiles which can be filtered to allow users to only see profiles relevant to them. If a user sees another user they want to learn more about, they can then go to that user's profile page, where they can acquire further information about them. If they see nothing there to dissuade them, they then can either acquire that user's information on various social media platforms to contact them, or contact them directly through the site. Furthermore, we potentially allow users to subscribe to SMS or email updates, allowing them to be informed when another user on Roomate Radar contacts them.
+
 ## Mockups
 ### Landing Page
 ![](/images/landing.png)
