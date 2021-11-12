@@ -31,4 +31,9 @@ The profiles page lists cards containing the details of all the users of Roommat
 Several examples of potential filter options for the Profiles List Page
 
 ## Team
-Roommate Radar is created by Brandon Au, Raphael Bumanlang, Kristian Lazo, Lily Lonborg, and Justin Yip
+Roommate Radar is created by 
+Brandon Au: https://brandonow.github.io/
+Raphael Bumanlang: 
+Kristian Lazo: https://lazokris.github.io/
+Lily Lonborg: 
+Justin Yip: https://jyip808.github.io/
