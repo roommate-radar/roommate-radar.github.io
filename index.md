@@ -15,19 +15,19 @@ Come check out Roommate Radar [here](http://143.198.108.125)!
 
 ## Mockups
 ### Landing Page
-![](/images/landing.png)
+![](/images/landing_screenie.png)
 
 The landing page is the first page any prospective user will be presented with upon loading up Roommate Radar. On this page, potential users will be informed of what Roommate Radar is, and instructed to make an account.
 ### Account Creation Page (1)
-![](/images/create_account_1.png)
+![](/images/register_screenie.png)
 
 In order to start using Roommate Radar, users must first make an account. To do so, they must create an account including a username, password, and associated UH email address.
 ### Account Creation Page (2)
-![](/images/create_account_2.png)
+![](/images/createprofile_screenie.png)
 
 Upon creating an account with Roommate Radar, users must then populate their profile so that other users can use the information within to connect with them.
 ### Profiles List Page
-![](/images/profiles_mockup.png)
+![](/images/listprofiles_screenie.png)
 
 The profiles page lists cards containing the details of all the users of Roommate Radar, and also contains a myriad of filter options to help users find others like them.
 ### Examples of Filters
