@@ -1,6 +1,8 @@
 ## Table of Contents
 * [Overview](#overview)
+* [Deployment](#deployment)
 * [Mockups](#mockups)
+* [Milestones](#milestones)
 * [Team](#team)
 
 ## Overview
