@@ -34,11 +34,9 @@ The profiles page lists cards containing the details of all the users of Roommat
 Several examples of potential filter options for the Profiles List Page
 
 ## Milestones
-### Milestone 1
-https://github.com/roommate-radar/roommate-radar/projects/1
+* [Milestone 1](https://github.com/roommate-radar/roommate-radar/projects/1)
 
-## Milestone 2
-https://github.com/roommate-radar/roommate-radar/projects/2
+* [Milestone 2](https://github.com/roommate-radar/roommate-radar/projects/2)
 
 ## Team
 Roommate Radar is created by:
