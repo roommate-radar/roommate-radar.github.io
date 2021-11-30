@@ -37,8 +37,8 @@ Several examples of potential filter options for the Profiles List Page
 
 ## Milestones
 * [Milestone 1](https://github.com/roommate-radar/roommate-radar/projects/1)
-
 * [Milestone 2](https://github.com/roommate-radar/roommate-radar/projects/2)
+* [Milestone 3](https://github.com/roommate-radar/roommate-radar/projects/3)
 
 ## Team
 Roommate Radar is created by:
