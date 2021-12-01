@@ -18,7 +18,7 @@ This sections gives the users a guide to installing Meteor who wish to use this 
 ### Installation
 First, [install Meteor](https://www.meteor.com/developers/install).
 
-Second, visit the [Roommate Radar application github page](https://github.com/roommate-radar/roommate-radar), and click the "Code" button. Then, clone the directory onto your local computer. You can download the source as a zip file or create a fork of the repo. Alternatively, ssing applications like [Github Desktop](https://desktop.github.com/) work well too. 
+Second, visit the [Roommate Radar application github page](https://github.com/roommate-radar/roommate-radar), and click the "Code" button. Then, clone the directory onto your local computer. You can download the source as a zip file or create a fork of the repo. Alternatively, using applications like [Github Desktop](https://desktop.github.com/) work well too. 
 
 Third, cd into the roommate-radar/app directory and install libraries with:
 ```
