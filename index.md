@@ -31,7 +31,7 @@ $ meteor npm run start
 ```
 If all goes well, the application will start up and appear at [http://localhost:3000](http://localhost:3000).
 
-## Mockups
+## User Guide
 ### Landing Page
 The landing page is the first page any prospective user will be presented with upon loading up Roommate Radar. On this page, potential users will be informed of what Roommate Radar is, and instructed to make an account.
 ![](/images/landing_screenie.png)
@@ -57,9 +57,6 @@ The user's profile page contains the details of the users themselves when they c
 ### Edit Profile Page
 A user can edit their own profile page and change any details which will be updated throughout the application.
 ![](/images/editprofile_screenie.PNG)
-
-### Examples of Filters
-![](/images/filters_ex.png)
 
 Several examples of potential filter options for the Profiles List Page
 
