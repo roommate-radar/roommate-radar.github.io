@@ -33,21 +33,31 @@ If all goes well, the application will start up and appear at [http://localhost:
 
 ## Mockups
 ### Landing Page
-![](/images/landing_screenie.png)
-
 The landing page is the first page any prospective user will be presented with upon loading up Roommate Radar. On this page, potential users will be informed of what Roommate Radar is, and instructed to make an account.
-### Account Creation Page (1)
-![](/images/register_screenie.png)
+![](/images/landing_screenie.PNG)
 
-In order to start using Roommate Radar, users must first make an account. To do so, they must create an account including a username, password, and associated UH email address.
-### Account Creation Page (2)
-![](/images/createprofile_screenie.png)
+### Sign Up and Sign In
+In order to start using Roommate Radar, users must first make an account. To do so, they must select the "Sign up" button to go to the following page and sign up. They must create an account including a username, password, and associated UH email address.
+![](/images/register_screenie.PNG)
 
-Upon creating an account with Roommate Radar, users must then populate their profile so that other users can use the information within to connect with them.
+Upon creating an account with Roommate Radar, users must then populate and create their profile so that other users can use the information within to connect with them.
+![](/images/createprofile_screenie.PNG)
+
+Alternatively, you can select "Sign in" to go to the following page and log in if you have an existing account.
+![](/images/signin_screenie.PNG)
+
 ### Profiles List Page
-![](/images/listprofiles_screenie.png)
-
 The profiles page lists cards containing the details of all the users of Roommate Radar, and also contains a myriad of filter options to help users find others like them.
+![](/images/listprofiles_screenie.PNG)
+
+### User's Profile Page
+The user's profile page contains the details of the users themselves when they created their own profile. Upon entering this page, they can edit their own profile with the "Edit Profile" button.
+![](/images/myprofile_screenie.PNG)
+
+### Edit Profile Page
+A user can edit their own profile page and change any details which will be updated throughout the application.
+![](/images/editprofile_screenie.PNG)
+
 ### Examples of Filters
 ![](/images/filters_ex.png)
 
