@@ -1,4 +1,4 @@
-![ci-badge](https://github.com/roommate-radar/roommate-radar/workflows/ci-meteor-application-template-react/badge.svg)
+![ci-badge](https://github.com/roommate-radar/roommate-radar/workflows/ci-roommate-radar/badge.svg)
 
 ## Table of Contents
 * [Overview](#overview)
