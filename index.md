@@ -13,6 +13,24 @@ In order to help users connect, we present users with bite-sized views of a vari
 ## Deployment
 Come check out Roommate Radar [here](https://roommate-radar.com)!
 
+## Developer Guide
+This sections gives the users a guide to installing Meteor who wish to use this code as a base for their own developments.
+### Installation
+First, [install Meteor](https://www.meteor.com/developers/install).
+
+Second, visit the [Roommate Radar application github page](https://github.com/roommate-radar/roommate-radar), and click the "Code" button. Then, clone the directory onto your local computer. You can download the source as a zip file or create a fork of the repo. Alternatively, ssing applications like [Github Desktop](https://desktop.github.com/) work well too. 
+
+Third, cd into the roommate-radar/app directory and install libraries with:
+```
+$ meteor npm install
+```
+### Running the Application
+Lastly, once the libraries are installed, you can run the application by invoking:
+```
+$ meteor npm run start
+```
+If all goes well, the application will start up and appear at [http://localhost:3000](http://localhost:3000).
+
 ## Mockups
 ### Landing Page
 ![](/images/landing_screenie.png)
