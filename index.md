@@ -3,8 +3,8 @@
 ## Table of Contents
 * [Overview](#overview)
 * [Deployment](#deployment)
-* [Developer Guide](#developerguide)
-* [User Guide](#userguide)
+* [Developer Guide](#developer-guide)
+* [User Guide](#user-guide)
 * [Mockups](#mockups)
 * [Milestones](#milestones)
 * [Team](#team)
