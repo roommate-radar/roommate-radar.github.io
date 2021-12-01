@@ -34,21 +34,21 @@ If all goes well, the application will start up and appear at [http://localhost:
 ## Mockups
 ### Landing Page
 The landing page is the first page any prospective user will be presented with upon loading up Roommate Radar. On this page, potential users will be informed of what Roommate Radar is, and instructed to make an account.
-![](/images/landing_screenie.PNG)
+![](/images/landing_screenie.png)
 
 ### Sign Up and Sign In
 In order to start using Roommate Radar, users must first make an account. To do so, they must select the "Sign up" button to go to the following page and sign up. They must create an account including a username, password, and associated UH email address.
-![](/images/register_screenie.PNG)
+![](/images/register_screenie.png)
 
 Upon creating an account with Roommate Radar, users must then populate and create their profile so that other users can use the information within to connect with them.
-![](/images/createprofile_screenie.PNG)
+![](/images/createprofile_screenie.png)
 
 Alternatively, you can select "Sign in" to go to the following page and log in if you have an existing account.
-![](/images/signin_screenie.PNG)
+![](/images/signin_screenie.png)
 
 ### Profiles List Page
 The profiles page lists cards containing the details of all the users of Roommate Radar, and also contains a myriad of filter options to help users find others like them.
-![](/images/listprofiles_screenie.PNG)
+![](/images/listprofiles_screenie.png)
 
 ### User's Profile Page
 The user's profile page contains the details of the users themselves when they created their own profile. Upon entering this page, they can edit their own profile with the "Edit Profile" button.
