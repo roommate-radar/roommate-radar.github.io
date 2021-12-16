@@ -35,6 +35,15 @@ $ meteor npm run start
 ```
 If all goes well, the application will start up and appear at [http://localhost:3000](http://localhost:3000).
 
+### Community Feedback
+"The website seems to built on a strong foundation. The cards page looks like a typical craigslist site with some features still in development like the editing profile feature. One of the most interesting features was the social media icons that show up on a user's profile depending if they filled it out in their profile. The looks of the website is a bit basic but I feel that the site has a lot of potential and I think this would be useful for UH students if fully fleshed out. " -Justin 
+
+"The website looks good so far. I like the login features as well as the social media features as it is unique compared to other websites. I believe that the styling for the page could look better in terms of coloring as grey seems to be like a dull color. For the most part, the functionality of the webiste seems to do what it was intended to do." - Stevie 
+
+"I feel like the website could be more lively with better coloring as grey seems to be such a boring color. Even though the website is not fully developed, most of the functionality is working and seems cool. I think that social media functionality is cool as it only shows the icon if there is a social media. I believe that this functionalize as it intends to do, but it could have a bit more functions to work with." - John 
+
+"This website looks nice, but maybe you could use the school colors like green and white. The site looks user-friendly and easily accessible as there is a process in crerating the account with the sign up functionality. The website works well as it does what it is intended to do. Additionally, the process is easy to understand and the navigation bars is logically easy to understand" - Anthony 
+
 ## User Guide
 ### Landing Page
 The landing page is the first page any prospective user will be presented with upon loading up Roommate Radar. On this page, potential users will be informed of what Roommate Radar is, and instructed to make an account.
