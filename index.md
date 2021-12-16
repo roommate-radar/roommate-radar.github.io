@@ -44,6 +44,8 @@ If all goes well, the application will start up and appear at [http://localhost:
 
 "This website looks nice, but maybe you could use the school colors like green and white. The site looks user-friendly and easily accessible as there is a process in crerating the account with the sign up functionality. The website works well as it does what it is intended to do. Additionally, the process is easy to understand and the navigation bars is logically easy to understand" - Anthony 
 
+"I like the design of the homepage because its pleasing to look at and easy to navigate. I think the logo is clever. I think the color of the website should be darker to match the landing page image better. I think darker colors would complement the image more.  think that when signing up and editing your user profile, it would be easier to match and sort preferences if users could select options from a check-box list or dropdown menu." - Charlotte
+
 ## User Guide
 ### Landing Page
 The landing page is the first page any prospective user will be presented with upon loading up Roommate Radar. On this page, potential users will be informed of what Roommate Radar is, and instructed to make an account.
