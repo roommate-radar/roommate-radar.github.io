@@ -35,7 +35,7 @@ $ meteor npm run start
 ```
 If all goes well, the application will start up and appear at [http://localhost:3000](http://localhost:3000).
 
-### Community Feedback
+## Community Feedback
 "The website seems to built on a strong foundation. The cards page looks like a typical craigslist site with some features still in development like the editing profile feature. One of the most interesting features was the social media icons that show up on a user's profile depending if they filled it out in their profile. The looks of the website is a bit basic but I feel that the site has a lot of potential and I think this would be useful for UH students if fully fleshed out. " -Justin 
 
 "The website looks good so far. I like the login features as well as the social media features as it is unique compared to other websites. I believe that the styling for the page could look better in terms of coloring as grey seems to be like a dull color. For the most part, the functionality of the webiste seems to do what it was intended to do." - Stevie 
